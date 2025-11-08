@@ -1,0 +1,10 @@
+{
+  "SFTP": [
+    "host or IP SSH Server",
+    2222,
+    "User SSH Server",
+    "Password user SSH Server",
+    "",
+    ""
+  ]
+}
