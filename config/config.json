@@ -1,0 +1,11 @@
+{
+  "directorio_local": "C:/SegundoBackup/clientes",
+  "directorio_remoto": "/",
+  "forzar_descarga": false,
+  "mantener_ultimo": true,
+  "log": {
+    "ruta_log": "logs/sincronizar_archivos.log",
+    "max_megas": 3,
+    "copias": 3
+  }
+}
